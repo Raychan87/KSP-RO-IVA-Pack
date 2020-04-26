@@ -4,21 +4,20 @@ Diese Mod fügt dem Kerbal Space Program mit RSS, RO und ROCapsules einige IVA-C
 This mod adds some IVA cockpits to the Kerbal Space Program with RSS, RO and ROCapsules. These cockpits are not from me. The IVA cockpits are from alexustas, MOARdV, DemonEin, Max-Ksp and HonkHogan. I only intrigued this IVA cockpits into the modules of RO, ROCapsules and Taerobee.
 
 
-## For:
+## for:
 - Kerbal Space Program v1.8.1 + DLCs
 - RealismOverhaul v12.8.1 https://github.com/KSP-RO/RealismOverhaul
 - ROCapsules v1.1 https://github.com/KSP-RO/ROCapsules
 - RP-1 v1.4.1 https://github.com/KSP-RO/RP-0/releases
 - Taerobee v1.5.1 https://github.com/Tantares/Taerobee
 
-## TODO
-- SXT
+## todo
+- SXT Cockpits
 
 ## required:
 - ASET Avionics Pack v 2.1 https://spacedock.info/mod/1213/ASET%20Avionics
 - ASET Props v1.5 https://spacedock.info/mod/1204/ASET%20Props
 - MOARdV - AvionicsSystems v1.1 https://github.com/MOARdV/AvionicsSystems/releases
-- MOARdVPlus v1.0.0 https://github.com/MOARdV/MOARdVPlus/releases
 - RasterPropMonitor v0.31.3 https://github.com/JonnyOThan/RasterPropMonitor/releases
 - ToolbarController v1.9.4
 - ClickThroughBlocker v0.1.9.5
